@@ -48,7 +48,3 @@ If you have suggestions, improvements, or bug reports, feel free to fork this re
 ## License
 
 Do what you want
-
----
-
-Once you set up the repository on GitHub with the given name, you can add the `convertNEFtoImage.bat` script, use the above content for your README.md, and also include a LICENSE file if you decide to specify licensing terms.
