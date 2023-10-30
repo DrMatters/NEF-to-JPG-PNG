@@ -1,15 +1,6 @@
-Absolutely! Here's the suggested name for the repository and the README documentation:
-
----
-
-### Repository Name:
-`NEF-to-JPG-PNG`
-
----
-
 ### README.md
 
-# NEF to Image Windows Converter
+# NEF to JPG/PNG
 
 Convert Nikon's NEF (RAW) images to PNG or JPG format on Windows using ImageMagick.
 
