@@ -3,7 +3,7 @@ Absolutely! Here's the suggested name for the repository and the README document
 ---
 
 ### Repository Name:
-`NEF-to-Image-Windows-Converter`
+`NEF-to-JPG-PNG`
 
 ---
 
