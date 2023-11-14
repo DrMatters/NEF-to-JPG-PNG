@@ -24,7 +24,7 @@ Convert Nikon's NEF (RAW) images to PNG or JPG format on Windows using ImageMagi
 2. Run the script using the command:
 
 ```
-convertNEFtoImage.bat "path\to\folder\with\nef\files" [png|jpg]
+.\convertNEFtoImage.bat "path\to\folder\with\nef\files" [png|jpg]
 ```
 
 Replace `path\to\folder\with\nef\files` with the path to the folder containing your NEF files. The second argument is optional and specifies the output format (`png` or `jpg`). If not provided, the default is `png`.
@@ -32,7 +32,7 @@ Replace `path\to\folder\with\nef\files` with the path to the folder containing y
 Example:
 
 ```
-convertNEFtoImage.bat "C:\Users\JohnDoe\Pictures\NikonRawImages" jpg
+.\convertNEFtoImage.bat "C:\Users\JohnDoe\Pictures\NikonRawImages" jpg
 ```
 
 The script will process all NEF files in the specified directory and convert them to the chosen image format. Converted images will be saved in a subfolder (named after the chosen format) within the specified directory.
